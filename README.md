@@ -2,6 +2,9 @@
 
 A Raycast script that randomly updates your Slack and GitLab status with funny work-life messages.
 
+<img width="880" height="495" alt="Xnapper-2025-11-30-21 03 25" src="https://github.com/user-attachments/assets/4e29434a-2fec-48db-8375-17f647918ab0" />
+
+
 ## Features
 
 - Randomly selects from 30+ witty status messages
@@ -18,6 +21,9 @@ A Raycast script that randomly updates your Slack and GitLab status with funny w
 - 🎲 "Rolling the dice on features"
 - 💀 "Survived another standup"
 - 🌊 "Drowning in user feedback"
+
+<img width="608" height="342" alt="Xnapper-2025-11-30-21 05 57" src="https://github.com/user-attachments/assets/688efc6b-f4c4-4946-8dd2-681d7b3bc31f" />
+
 
 ## Requirements
 
